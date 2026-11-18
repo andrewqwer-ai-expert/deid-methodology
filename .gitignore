@@ -1,0 +1,6 @@
+# 不進 repo 的東西
+*.bak
+*.tmp
+_to_delete/
+.DS_Store
+Thumbs.db
